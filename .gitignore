@@ -1,0 +1,24 @@
+.DS_Store
+_drafts/
+_site/
+*.note
+
+# Media
+*.ai
+*.png
+*.jpg
+*.gif
+*.pptx
+
+# Stuff from PyCharm
+**/.idea/*
+*.iws
+*.iml
+
+# From the Indigo theme
+.sass-cache
+Gemfile.lock
+
+.ruby-version
+
+projects.html

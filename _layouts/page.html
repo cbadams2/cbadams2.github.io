@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% include header.html %}
+
+{% include social-cards.html %}
+
+{{content}}
+
+{% if page.category == "project" %}
+    {% include disqus.html %}
+{% endif %}
+
+{% include footer.html %}
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
