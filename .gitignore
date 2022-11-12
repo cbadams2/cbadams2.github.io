@@ -5,9 +5,9 @@ _site/
 
 # Media
 *.ai
-*.png
-*.jpg
-*.gif
+# *.png
+# *.jpg
+# *.gif
 *.pptx
 
 # Stuff from PyCharm
