@@ -16,7 +16,7 @@ I am currently a physics PhD student at Columbia, and I do gamma-ray astrophysic
 
 I enjoy coding and working with large data sets - much of my work has focused on using archival data to search for faint signals.
 
-Big fan of public transport. Love to explore cities, play sports, bike, and garden. Always working to improve access to transit and healthy food, and to end mass incarceration.
+Big fan of public transport. Love to explore cities, play sports, bike, and garden. Always working to end mass incarceration. Supporter of improved access to transit and healthy food.
 
 {% comment %}
 {% include figure.html url="/assets/images/cropped_rabi.jpg"  width="600px" %}
