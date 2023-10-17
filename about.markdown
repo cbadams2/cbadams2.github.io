@@ -18,4 +18,6 @@ I enjoy coding and working with large data sets - much of my work has focused on
 
 Big fan of public transport. Love to explore cities, play sports, bike, and garden. Always working to improve access to transit and healthy food, and to end mass incarceration.
 
-[//]: # ({% include figure.html url="/assets/images/cropped_rabi.jpg"  width="600px" %})
+{% comment %}
+{% include figure.html url="/assets/images/cropped_rabi.jpg"  width="600px" %}
+{% endcomment %}
