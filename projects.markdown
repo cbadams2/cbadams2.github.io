@@ -30,4 +30,4 @@ An upcoming project that will provide a virtual interpretation of the library / 
 
 Central to this experience will be its minimal nature. No reviews, no social aspect, just staring at a bunch of book covers, maybe reading the summary, and calling it a day.
 
-This project will be exclusively used to support local booksellers, and it will never link to amazon.com.
+This project will be exclusively used to support local booksellers.
