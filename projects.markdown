@@ -20,7 +20,7 @@ Most of my work is on [GitHub](https://github.com/cbadams2).
 
 [![ProfanID Logo](/assets/images/profanid_logo.png){:class="img-responsive" height="20%" width="20%"}](https://profanid.com)
 
-[ProfanID](https://profanid.com) is a the first website I made and it scans lyrics from [Genius.com](https://genius.com/). The code is hosted on [GitHub](https://github.com/cbadams2/ProfanID).
+[ProfanID](https://profanid.com) is the first website I made and it scans lyrics for uncouth language from the [musixmatch.com/](https://www.musixmatch.com/) API. The code is hosted on [GitHub](https://github.com/cbadams2/ProfanID).
 
 ---
 
