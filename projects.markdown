@@ -11,7 +11,7 @@ image: assets/images/pies.jpg
 
 </section>
 
-Most of my work is on [GitHub](https://github.com/cbadams2).
+Most of my personal work is publicly available on [GitHub](https://github.com/cbadams2).
 
 ---
 
