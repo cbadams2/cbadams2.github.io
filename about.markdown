@@ -12,7 +12,7 @@ image: {{ site.picture }}
 
 Hi! I live in NYC.
 
-I am currently a physics PhD student at Columbia, and I do gamma-ray astrophysics with the [VERITAS gamma-ray observatory](https://veritas.sao.arizona.edu). I enjoy coding and working with large data sets - much of my work has focused on using archival data to search for faint signals. I've been a volunteer for [The Remedy Project](https://theremedyproj.org) since 2019, working to expose the human rights crisis that is the US carceral system, and advocate for the rights of those within it.
+I am currently a physics PhD student at Columbia, and I do gamma-ray astrophysics with the [VERITAS](https://veritas.sao.arizona.edu) gamma-ray observatory. I enjoy coding and working with large data sets - much of my work has focused on using archival data to search for faint signals. I've been a volunteer for [The Remedy Project](https://theremedyproj.org) since 2019, working to expose the human rights crisis that is the US carceral system, and advocate for the rights of those within it.
 
 Big fan of public transport. Love to explore cities, play sports, bike, and garden. Proponent of transit access and food security.
 
